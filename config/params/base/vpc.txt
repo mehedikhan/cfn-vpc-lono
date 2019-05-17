@@ -1,0 +1,7 @@
+EnvironmentName=SD-Devs
+
+#VpcCIDR=             # optional
+#PublicSubnet1CIDR=   # optional
+#PublicSubnet2CIDR=   # optional
+#PrivateSubnet1CIDR=  # optional
+#PrivateSubnet2CIDR=  # optional
